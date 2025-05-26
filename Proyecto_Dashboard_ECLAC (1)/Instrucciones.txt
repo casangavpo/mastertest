@@ -1,0 +1,14 @@
+INSTRUCCIONES PARA EJECUTAR EL DASHBOARD ECLAC
+
+1. Asegúrate de tener Python instalado (recomendado: Python 3.9+)
+2. Abre una terminal en esta carpeta y ejecuta:
+
+   pip install -r requirements.txt
+
+3. Luego lanza el dashboard con:
+
+   streamlit run dashboard_eclac.py
+
+4. El navegador se abrirá automáticamente mostrando el panel.
+
+Incluye visualización del riesgo comunal del personal ECLAC.
